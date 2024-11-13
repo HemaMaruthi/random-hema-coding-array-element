@@ -11,6 +11,7 @@ function getRandomData(){
    let randomIndex = Math.floor(Math.random() * data.length)
     // console.log(data[0])
     console.log(randomIndex)
+    console.log("This is new vesrion")
     // console.log(data[randomIndex])
     return data[randomIndex]
 
