@@ -1,0 +1,22 @@
+{
+  "name": "random-hema-coding-array-element",
+  "version": "2.0.0",
+  "description": "This is full stack web development",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HemaMaruthi/random-hema-coding-array-element.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Mahesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HemaMaruthi/random-hema-coding-array-element/issues"
+  },
+  "homepage": "https://github.com/HemaMaruthi/random-hema-coding-array-element#readme"
+}
